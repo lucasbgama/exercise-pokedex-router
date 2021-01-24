@@ -8,3 +8,22 @@
   border: 1px gray solid;
   border-radius: 10px;
 }
+
+.fav-icon {
+  font-size: 30px; 
+  color: yellow;
+  position: absolute;
+  margin: 0;
+  top: 0;
+  right: 0;
+}
+
+.pokemon .right {
+  align-self: stretch;
+  display: flex;
+  position: relative;
+}
+
+img {
+  align-self: center;
+}
